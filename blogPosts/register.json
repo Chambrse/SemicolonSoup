@@ -1,0 +1,12 @@
+{
+    "testPost": {
+        "title": "this is a post that has a title",
+        "subtitle": "this is a subtitle for that post",
+        "date": "a date"
+    },
+    "testPost2": {
+        "title": "this is my second post",
+        "subtitle": "2 posts! fuck yueah!",
+        "date": "a date that is later than the other date"
+    }
+}
